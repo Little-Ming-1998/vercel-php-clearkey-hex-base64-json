@@ -9,7 +9,7 @@ By utilizing this service, you **may potentially be in violation** of the terms 
 
 
 
-## Before you use this
+## Before you use this-
 1. This tool is written in PHP
 2. You can run it locally by copying all files in to your web server's root directory. </br> Ensure PHP is installed and configured properly with your web server before deploying them on your web server.
 3. You can deploy this tool to Vercel. </br> Refer to the steps below for deploying this tool to Vercel.
